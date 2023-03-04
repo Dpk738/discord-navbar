@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/discord-navbar/static/css/main.3452d775.css",
+    "main.js": "/discord-navbar/static/js/main.f250e5a3.js",
+    "static/js/787.633816a4.chunk.js": "/discord-navbar/static/js/787.633816a4.chunk.js",
+    "index.html": "/discord-navbar/index.html",
+    "main.3452d775.css.map": "/discord-navbar/static/css/main.3452d775.css.map",
+    "main.f250e5a3.js.map": "/discord-navbar/static/js/main.f250e5a3.js.map",
+    "787.633816a4.chunk.js.map": "/discord-navbar/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3452d775.css",
+    "static/js/main.f250e5a3.js"
+  ]
+}
